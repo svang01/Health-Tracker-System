@@ -1,0 +1,3 @@
+2023-06-12,Exercise,90,25,Running
+2023-06-12,Exercise,60,300,Swimming
+2023-06-12,Exercise,80,200,Running
